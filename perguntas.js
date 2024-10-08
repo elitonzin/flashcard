@@ -1,5 +1,5 @@
 criaCartao(
-    'filme',
+    'filmes',
     'vilão que pessui corpos para usá-los ?',
     'venom'
 )
