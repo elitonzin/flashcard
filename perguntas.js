@@ -21,3 +21,9 @@ criaCartao(
     'Famoso pela série "Jurassiac Park" retratado como um predador Inteligente é azul?',
     'velociraptor'
 )
+
+criaCartao(
+    'Desenho',
+    'Ele ganha seus poderes após ser. Exposto a uma explosão de gás que libera enegia metahumana?',
+    'Super Choque'
+)
