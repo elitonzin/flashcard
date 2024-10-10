@@ -24,12 +24,12 @@ criaCartao(
 
 criaCartao(
     'Desenho',
-    'Ele ganha seus poderes após ser. Exposto a uma explosão de gás que libera enegia metahumana?',
-    'Super Choque'
+    'O rei do crime de Gothon Eity?',
+    'Coringa'
 )
 
 criaCartao(
     'Desenho',
-    'Ele ganha seus poderes após ser. Exposto a uma explosão de gás que libera enegia metahumana?',
-    'Super Choque'
+    'Vive em uma fazenda com um cachorro Amarelo e um monte de Overlhas ?',
+    'Shaw Carneiro'
 )
