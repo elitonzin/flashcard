@@ -27,3 +27,9 @@ criaCartao(
     'Ele ganha seus poderes após ser. Exposto a uma explosão de gás que libera enegia metahumana?',
     'Super Choque'
 )
+
+criaCartao(
+    'Desenho',
+    'Ele ganha seus poderes após ser. Exposto a uma explosão de gás que libera enegia metahumana?',
+    'Super Choque'
+)
