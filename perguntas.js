@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Desenho',
+    'Ele ganha seus poderes após ser. Exposto a uma explosão de gás que libera enegia metahumana?',
+    'Super Choque'
 )
 
 criaCartao(
