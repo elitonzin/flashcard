@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'filmes',
+    'Famoso pela série "Jurassiac Park" retratado como um predador Inteligente é azul?',
+    'velociraptor'
 )
