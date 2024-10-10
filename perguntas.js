@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Desenho ',
     'É um personagem narigudo que vive de mal humor? e não gosta dos seus vizinhos?',
-    'LUla molusco'
+    'Lula molusco'
 )
 
 criaCartao(
