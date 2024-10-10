@@ -23,7 +23,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Desenho',
+    'filmes',
     'O rei do crime de Gothon Eity?',
     'Coringa'
 )
